@@ -1,0 +1,11 @@
+* {
+    -white : #efefef;
+}
+
+.root{
+    -fx-background-color : transparent;
+}
+
+.scroll-pane > .viewport {
+   -fx-background-color: transparent;
+}
